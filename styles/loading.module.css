@@ -1,0 +1,29 @@
+.container {
+    width: 100%;
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    align-items: center;
+}
+
+.digits {
+    position: absolute;
+    font-size: 15rem;
+    margin-left: 2rem;
+}
+
+.progess_bar {
+    height: 1rem;
+    background: black;
+    transform-origin: 0%;
+}
+
+
+@media screen and (max-width: 1040px) { 
+    .digits {
+        font-size: 6rem;
+    }
+}
