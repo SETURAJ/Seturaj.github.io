@@ -3,11 +3,9 @@ import styles from '../styles/Home.module.css'
 import AboutMe from '../components/aboutMe'
 import Navbar from '../components/navbar'
 import Description from '../components/description'
-import Education from '../components/education'
 import Experience from '../components/experience'
 import Skills from '../components/skills'
 import Projects from '../components/projects'
-import Contact from '../components/Contact'
 import Footer from '../components/footer'
 import AOS from 'aos';
 import 'aos/dist/aos.css';

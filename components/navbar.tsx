@@ -1,7 +1,5 @@
 import Link from 'next/link'
 import styles from '../styles/Navbar.module.css'
-import Image from 'next/image';
-import menu from '../public/menu.svg'
 import { motion, AnimatePresence } from 'framer-motion';
 
 import { useState, useEffect } from 'react';

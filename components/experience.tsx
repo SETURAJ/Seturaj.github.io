@@ -2,7 +2,6 @@ import styles from '../styles/Experience.module.css'
 import Image from 'next/image'
 import isro from '../public/isro.svg'
 import intel from '../public/intel.png'
-import Link from 'next/link';
 import { motion } from 'framer-motion';
 
 const Experience = () => {

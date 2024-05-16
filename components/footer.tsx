@@ -3,12 +3,8 @@ import styles from '../styles/Footer.module.css'
 import linkedin from '../public/linkedin.svg'
 import github from '../public/GitHub.svg'
 import leetcode from '../public/leetcode.svg'
-import gfg from '../public/geeksforgeeks.svg'
-import codechef from '../public/codechef.svg'
 import instagram from '../public/instagram.svg'
 import twitter from '../public/twitter.svg'
-import snapchat from '../public/snapchat.svg'
-import facebook from '../public/facebook.svg'
 import Link from 'next/link'
 
 
