@@ -12,6 +12,10 @@ export default [
             'An individual can connect with other users by liking their posts, following their profiles, and chatting with them.',
             'Rigorously evaluated model performance using key metrics such as MCD, PESQ, STOI, and MSE.',
         ],
+        functionalities: [
+        ],
+        steps_to_start: [
+        ],
         img: [
         ],
     },
@@ -136,7 +140,6 @@ export default [
         img: [
             'https://raw.githubusercontent.com/SETURAJ/WCF-Classroom/main/Wcf_classroom_CE079_CE083/Client/Client/assets/images/home.gif',
         ],
-        video: '',
     },
    
 ]
