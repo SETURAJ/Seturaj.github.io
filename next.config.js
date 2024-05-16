@@ -12,12 +12,12 @@ const nextConfig = {
   ) {
     return {
       '/': { page: '/' },
-      '/insta-clone': { page: '/[id]' },
-      '/bookmyseat': { page: '/[id]' },
+      '/voice-style-transfer': { page: '/[id]' },
+      '/vertex-cover-problem': { page: '/[id]' },
       '/doctor-bot': { page: '/[id]' },
       '/nftmarketplace': { page: '/[id]' },
-      '/csi-news': { page: '/[id]' },
-      '/sh-filter': { page: '/[id]' },
+      '/CityEase-services': { page: '/[id]' },
+      '/classroom': { page: '/[id]' },
     }
   },
 }
